@@ -1,4 +1,11 @@
 # EatCheat
+## Flow Diagram: <br>
+<table>
+  <tr?
+    <td> <img src="App images/flow diagram.png" width="900" height="600"></td>
+  
+  </tr>
+  
 ## User Interface: <br>
 <table>
   <tr>
@@ -11,10 +18,3 @@
 </table>
 <br>
 
-## Flow Diagram: <br>
-
-<table>
-  <tr?
-    <td> <img src="App images/flow diagram.png" width="900" height="600"></td>
-  
-  </tr>
