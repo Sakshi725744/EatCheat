@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "761244762063",
+    "firebase_url": "https://frizzy-f3e0d-default-rtdb.firebaseio.com",
+    "project_id": "frizzy-f3e0d",
+    "storage_bucket": "frizzy-f3e0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761244762063:android:35c03e048455c86ab11cba",
+        "android_client_info": {
+          "package_name": "com.example.frizzy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761244762063-fha5k284jm9c153opqi7t48ed839r3qm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgWpmiPHpQkpov1hhKPD5JiGKdcVIukMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761244762063-fha5k284jm9c153opqi7t48ed839r3qm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
