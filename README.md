@@ -9,4 +9,10 @@
   </tr>
   
 </table>
+## Flow Diagram: <br>
 
+<table>
+  <tr?
+    <td> <img src="App images/flow diagram.png" width="900" height="600"></td>
+  
+  </tr>
